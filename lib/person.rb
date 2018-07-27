@@ -1,6 +1,6 @@
 # person.rb
 class Person
  end  
- adele_goldberg=
+ adele_goldberg=Person.new
 alan_kay=
 end
